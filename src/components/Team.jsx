@@ -2,7 +2,7 @@ import React from 'react';
 import AILead from '../assets/AILead.png';
 import Web3Lead from '../assets/Web3Lead.jpg';
 import weblead from '../assets/weblead.png';
-import DataLead from '../assets/DataLead.png';
+import DataLead from '../assets/DataLead.PNG';
 import productLead from '../assets/ProductManagementTrackLead.png';
 import cyberLead from '../assets/CybersecurityLead.jpg';
 import designLead from '../assets/ProductDesignLead.jpg';
